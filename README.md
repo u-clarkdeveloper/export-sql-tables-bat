@@ -4,7 +4,7 @@
 >ExportSqlTables.bat -h
 
 Export MS SQL Database Tables
-Note: Make sure to have bcp installed on the server running this script
+Note: Make sure to have bcp and unix2dos installed on the server running this script
 
 
 Usage:
