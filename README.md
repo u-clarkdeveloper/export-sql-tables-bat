@@ -1,6 +1,8 @@
 # export-sql-tables-bat
 
 ```
+>ExportSqlTables.bat -h
+
 Export MS SQL Database Tables
 Note: Make sure to have bcp installed on the server running this script
 
